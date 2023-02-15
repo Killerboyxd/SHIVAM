@@ -1,7 +1,7 @@
-![ᴋʀɪꜱᴛʏ](https://th.bing.com/th/id/OIP.hzsGP0ZSS9GpWcWaeDAQQgHaHa?pid=ImgDet&rs=1)
+![sʜɪᴠᴀᴍ](https://th.bing.com/th/id/OIP.hzsGP0ZSS9GpWcWaeDAQQgHaHa?pid=ImgDet&rs=1)
 # ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+KRISTY+AN+ADVANCE+BOT)](https://github.com/ALTRON-XD/KRISTY)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+KRISTY+AN+ADVANCE+BOT)](https://github.com/Killerboyxd/SHIVAM)
 
 <p align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
@@ -9,13 +9,13 @@
 
 </h3>
 <p align="center">
-<a href="https://telegram.me/KRISTY_AF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/KRISTY_MF"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ᴋʀɪꜱᴛʏ](https://t.me/miss_kristy_bot).
+### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [sʜɪᴠᴀᴍ](https://t.me/ᴋɪʟʟᴇʀ_ᴏᴘ_ᴍᴜsɪᴄ_ʙᴏᴛ).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -25,7 +25,7 @@
 ─「 ᴄʀᴇᴅɪᴛꜱ 」─ 
 
 
-ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/Kristy_Mf/16) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [ᴋʀɪꜱᴛʏ](https://t.me/MISS_KRISTY_BOT)
+ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/Kristy_Mf/16) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [sʜɪᴠᴀᴍ](https://t.me/KILLER_OP_MUSIC_BOT)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -87,14 +87,14 @@
 
 `python3 -m KRISTY`
 	
-HERE YOU GO KRISTY IS DEPLOYED🥀
+HERE YOU GO SHIVAM IS DEPLOYED🥀
 
 </details> 
 
 
 
 
-ᴛʜᴇꜱᴇ ᴀʀᴇ ᴛʜᴇ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ ᴋʀɪꜱᴛʏ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴡɪᴛʜ:
+ᴛʜᴇꜱᴇ ᴀʀᴇ ᴛʜᴇ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ sʜɪᴠᴀᴍ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴡɪᴛʜ:
 
 + [x] ꜰᴏʀᴋꜱ
 + [x] ᴍᴀɪɴ ʀᴇᴘᴏ ᴇʀʀᴏꜱ/ɢᴜɪᴅᴀɴᴄᴇ
